@@ -2,9 +2,9 @@
 
 A full-stack e-commerce web application built using Django that supports multi-vendor architecture with customer, seller, admin, and delivery modules.
 
-## 🚀 Features
+##  Features
 
-### 👤 Customer Module
+###  Customer Module
 - User registration & login
 - Browse products by category
 - Add to cart & checkout
@@ -13,28 +13,28 @@ A full-stack e-commerce web application built using Django that supports multi-v
 - Order tracking
 - Multiple payment methods (Braintree / PayPal Sandbox)
 
-### 🏪 Seller Module
+###  Seller Module
 - Seller registration & login
 - Add / Update / Delete products
 - Inventory management
 - Pricing & tax configuration
 - Product approval workflow
 
-### 🛠️ Admin Module
+###  Admin Module
 - Approve seller products
 - Manage users
 - Inventory monitoring
 - Order management
 - Revenue tracking
 
-### 🚚 Delivery Partner Module
+### Delivery Partner Module
 - View assigned orders
 - Update delivery status
 - Order completion tracking
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - **Backend:** Django, Python
 - **Database:** MySQL
@@ -45,7 +45,7 @@ A full-stack e-commerce web application built using Django that supports multi-v
 
 ---
 
-## 🗂️ Database Architecture
+##  Database Architecture
 
 - Users
 - Sellers
@@ -58,9 +58,9 @@ A full-stack e-commerce web application built using Django that supports multi-v
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
-### 1️⃣ Clone Repository
+###  Clone Repository
 ```bash
 git clone https://github.com/yourusername/multi-vendor-ecommerce-django.git
 cd multi-vendor-ecommerce-django
