@@ -1,4 +1,4 @@
-# 🛒 Multi-Vendor E-Commerce Platform
+#  Multi-Vendor E-Commerce Platform
 
 A full-stack e-commerce web application built using Django that supports multi-vendor architecture with customer, seller, admin, and delivery modules.
 
@@ -58,9 +58,21 @@ A full-stack e-commerce web application built using Django that supports multi-v
 
 ---
 
-##  Installation & Setup
+## ⚙️ Installation & Setup
 
-###  Clone Repository
-```bash
+### 1️⃣ Clone Repository
 git clone https://github.com/yourusername/multi-vendor-ecommerce-django.git
 cd multi-vendor-ecommerce-django
+
+### 2️⃣ Create Virtual Environment
+python -m venv venv
+venv\Scripts\activate   # Windows
+
+### 3️⃣ Install Dependencies
+pip install -r requirements.txt
+
+### 4️⃣ Configure Database
+Update settings.py with your MySQL credentials.
+
+### 5️⃣ Run Server
+python manage.py runserver
