@@ -61,7 +61,7 @@ A full-stack e-commerce web application built using Django that supports multi-v
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone Repository
-git clone https://github.com/yourusername/multi-vendor-ecommerce-django.git
+git clone https://github.com/athulkrishnanp/multi-vendor-ecommerce-django.git
 cd multi-vendor-ecommerce-django
 
 ### 2️⃣ Create Virtual Environment
